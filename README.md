@@ -2,8 +2,7 @@
 
 - 🔭 Estou em busca do meu primeiro estágio
 - 🌱 Estudando Python(Django e automações)|C|JS
-- 😄 Pronomes: Ele/dele
--->
+- 😄 Desenvolverdor web full stack
 ##
 <div>
   <a href="https://github.com/EduardoGCT">
