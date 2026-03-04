@@ -4,11 +4,7 @@
 - 🌱 Estudando Python(Django e automações)|C|JS
 - 😄 Desenvolverdor web full stack
 ##
-<div>
-  <a href="https://github.com/EduardoGCT">
-   <img heigth"180em" src="https://github-readme-stats.vercel.app/api?username=EduardoGCT&show_icons=true&theme=synthwave">
-   <img heigth"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGCT&show_icons=true&theme=synthwave">
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
