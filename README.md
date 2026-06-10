@@ -1,13 +1,13 @@
 ## Olá! Eu sou o Eduardo 👋
 
 - 🔭 Estou em busca do meu primeiro estágio
-- 🌱 Estudando Python(Django e automações)|C|JS
+- 🌱 Estudando C#|C|JS|.NET|ASP.NET|REACT
 - 😄 Desenvolverdor web full stack
 ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
 
