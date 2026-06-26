@@ -26,4 +26,4 @@
 </div>
 
 <img alt="Cat" src="https://i.postimg.cc/25Sv5Rdz/CatBbbb.png">
-<p align="center">© 2022-Present <a href="https://github.com/IttoSanzzo">IttoSanzzo</a></p>
+<p align="center">© 2025-Present <a href="https://github.com/IttoSanzzo">EduardoGCT</a></p>
