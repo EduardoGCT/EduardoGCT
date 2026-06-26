@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo 👋
+## <Eduardo></GCT>
 
 - 🔭 Estou em busca do meu primeiro estágio
 - 🌱 Estudando C#|C|JS|.NET|ASP.NET|REACT
