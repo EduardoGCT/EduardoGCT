@@ -1,4 +1,4 @@
-## <EduardoGCT/>
+## <EduardoGCT>
 
 - 🔭 Estou em busca do meu primeiro estágio
 - 🌱 Estudando C#|C|JS|.NET|ASP.NET|REACT
