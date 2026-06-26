@@ -24,3 +24,6 @@
 <div>
    <a href="https://www.linkedin.com/in/eduardo-gomes-de-castro-terra-628062269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<img alt="Cat" src="https://i.postimg.cc/25Sv5Rdz/CatBbbb.png">
+<p align="center">© 2022-Present <a href="https://github.com/IttoSanzzo">IttoSanzzo</a></p>
