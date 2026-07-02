@@ -15,7 +15,7 @@
   <img align="center" alt="Edu-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Edu-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="display: inline" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGCT&count_private=true&show_icons=true&hide_border=true&theme=midnight-purple&text_color=00a7f6&layout=compact&langs_count=8"></a>
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
   </p>
 </div>
 
