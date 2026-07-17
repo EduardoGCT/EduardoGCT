@@ -3,7 +3,7 @@
 - 🔭 Estou em busca do meu primeiro estágio
 - 🌱 Estudando C#|C|JS|.NET|ASP.NET|REACT
 - 😄 Desenvolvedor web full stack
-- He4art Developers Contributor
+- 💜  He4art Developers Contributor
 ##
 
 <div style="display: inline_block"><br>
